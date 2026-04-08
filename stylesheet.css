@@ -1,0 +1,51 @@
+a  { font-family: "tahoma", Tahoma, sans-serif;
+	font-size: 11px; text-decoration:none; }
+a:link {
+	text-decoration: none;
+	font-size: 11px;
+	color: #0000ff;
+	text-decoration: none;
+}
+a:visited {
+	font-family: "tahoma", AngsanaUPC, CordiaUPC;
+	font-size: 11px;
+	color: #0000ff;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "tahoma", AngsanaUPC, CordiaUPC;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a:active {
+	font-family: "tahoma", AngsanaUPC, CordiaUPC;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.unnamed1 {	font-family: "tahoma", "Cordia New", Verdana;
+	font-size: 11px;
+}
+.style1 {color: #FFFFFF}
+.unnamed2 {
+	font-family: "tahoma", Tahoma, sans-serif;
+	font-size: 11px;
+}
+.Gradientmenu
+{ PADDING-RIGHT: 2px;  PADDING-LEFT: 2px; FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Gradient( GradientType=1, StartColorStr=#333366, EndColorStr=#FFFFFF ); PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: #000099; PADDING-TOP: 2px; BACKGROUND-COLOR: #ecf3fb }
+.listbox3{
+width:145px;
+font-family: "tahoma", "Cordia New", Verdana;
+	font-size: 11px;
+}
+.textnumber {	font-family: "tahoma", "Cordia New", Verdana;
+	font-size: 11px;
+	text-align:right;
+}
+.border-style {
+border-collapse:collapse;
+border: solid #696969;
+background-color: #CFCFCF;
+}
